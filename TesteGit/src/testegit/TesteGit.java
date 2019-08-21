@@ -17,6 +17,7 @@ public class TesteGit {
     public static void main(String[] args) {
         // TODO code application logic here
         //Teste
+        System.out.printf("Teste de Github!");
     }
     
 }
